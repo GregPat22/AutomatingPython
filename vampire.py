@@ -1,4 +1,4 @@
-name = "Dracul"
+name = "Dracul" #name variables associated with vampires
 age = 3000
 if name == "Dracula":
     print("Welcome, Count!")
